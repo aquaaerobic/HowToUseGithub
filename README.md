@@ -20,12 +20,12 @@ GitHub Training Agenda:
   - Completed: assignees have tested and closed bug
   
 ## Viewing your bugs on GitHub
-See [link](http://ior.ad/xQr)
+<a href="http://ior.ad/xQr" target="_blank">See Link</a>
 
 ## Using Github
 - Changing bug status 
 - Closing your bug
 - Adding other testers to your bug
 
-See [link](http://ior.ad/xQm)
+<a href="http://ior.ad/xQm" target="_blank">See Link</a>
 
