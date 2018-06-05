@@ -1,3 +1,5 @@
+<a href="https://aquaaerobic.github.io/HowToUseGithub/">home</a>
+
 # Life Cycle of a Bug
 
 During each update, comment or status change all assignees of bugs will be notified via email
