@@ -29,5 +29,3 @@ See http://ior.ad/xQr
 
 See http://ior.ad/xQm
 
-
-  
