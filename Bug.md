@@ -2,10 +2,10 @@
 
 # Life Cycle of a Bug/Enhancement
 
-During each update, comment or status change all assignees of bugs will be notified via email
+During each update, comment or status change all assignees of bugs/enhancements will be notified via email
 
 ## Submit Bug/Enhancement
-- Send new bugs, enhancements, etc. with descriptions and screenshots (if applicable) to developer and CC Chuck Konkol and Steve Williams
+- Email new Bug/Enhancement with descriptions and screenshots (if applicable) to developer and CC Chuck Konkol and Steve Williams
 
 ## Active
 - Bug/Enhancement will be added to Github by developer and assignee with be added
