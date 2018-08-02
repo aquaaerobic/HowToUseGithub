@@ -31,6 +31,6 @@ GitHub Training Agenda:
 
 <a href="http://ior.ad/xQm" target="_blank">See Link</a>
 
-## Life Cycle of a Bug
+## Life Cycle of a Bug/Enhancement
 <a href="https://aquaaerobic.github.io/HowToUseGithub/Bug" target="_blank">See Link</a>
 
