@@ -1,6 +1,7 @@
 # HowToUseGithub
 How to Use Github
 
+- Works best in Chrome web browser
 - See Developer to get Link to Github repository.
 
 GitHub Training Agenda:
