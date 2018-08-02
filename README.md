@@ -23,15 +23,15 @@ GitHub Training Agenda:
   - Completed: assignees have tested and closed bug
   
 ## Viewing your bugs on GitHub
-<a href="http://ior.ad/xQr" target="_blank">See Link</a>
+<a href="http://ior.ad/xQr" target="_blank">Watch Interactive Help</a>
 
 ## Using Github
 - Changing bug status 
 - Closing your bug
 - Adding other testers to your bug
 
-<a href="http://ior.ad/xQm" target="_blank">See Link</a>
+<a href="http://ior.ad/xQm" target="_blank">Watch Interactive Help</a>
 
 ## Life Cycle of a Bug/Enhancement
-<a href="https://aquaaerobic.github.io/HowToUseGithub/Bug" target="_blank">See Link</a>
+<a href="https://aquaaerobic.github.io/HowToUseGithub/Bug" target="_blank">Watch Interactive Help</a>
 
