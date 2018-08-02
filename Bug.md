@@ -5,7 +5,7 @@
 During each update, comment or status change all assignees of bugs will be notified via email
 
 ## Submit Bug
-- Send new bugs with descriptions and screenshots (if applicable) to John Summers and CC Chuck Konkol and Steve Williams
+- Send new bugs, enhancements, etc. with descriptions and screenshots (if applicable) to developer and CC Chuck Konkol and Steve Williams
 
 ## Active
 - Bug will be added to Github by developer and assignee with be added
