@@ -1,7 +1,7 @@
 # HowToUseGithub
 How to Use Github
 
-- Link to Github ZenHub <a href="https://github.com/aquaaerobic/RP#boards?repos=136026663" target="_blank">See Link</a>
+- See Developer to get Link to Github repository.
 
 GitHub Training Agenda:
 1.	What is Github?
